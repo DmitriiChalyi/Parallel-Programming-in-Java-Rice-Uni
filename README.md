@@ -1,4 +1,4 @@
-# This repo contains all my assignment solutions to Coursera's 
+## This repo contains my assignment solutions to the next Coursera's courses:
 [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java)
 
 [Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java)
