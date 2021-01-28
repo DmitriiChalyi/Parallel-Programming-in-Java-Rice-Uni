@@ -1,9 +1,9 @@
 ## This repo contains my assignment solutions to the next Coursera's courses:
-[Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java)
+[Parallel Programming in Java (Rice University)](https://www.coursera.org/learn/parallel-programming-in-java)
 
-[Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java)
+[Concurrent Programming in Java (Rice University)](https://www.coursera.org/learn/concurrent-programming-in-java)
 
-[Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java)
+[Distributed Programming in Java (Rice University)](https://www.coursera.org/learn/distributed-programming-in-java)
 
 ### Parallel Programming in Java Assignments
 
